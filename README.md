@@ -1,16 +1,15 @@
-### Hi there 👋
+## Olá! eu sou o Felipe Damasceno também conhecido como kenway9503
 
-<!--
-**Damasceno9503/Damasceno9503** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-	📖 Atualmente aprendendo Desenvolvimento Web Full Stack através do Proa.
 
-Here are some ideas to get you started:
+<div>
+  <a href="#">
+  <img height="150em" src="#">
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##
+
+<div>
+  
+</div>
+
