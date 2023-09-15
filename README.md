@@ -1,4 +1,4 @@
-## Olá! eu sou o Felipe Damasceno, também conhecido como kenway9503
+## Olá! eu sou o Felipe Santos Damasceno, também conhecido como kenway9503
 
 -	📖 Atualmente aprendendo Desenvolvimento Web Full Stack através do Proa.
 
